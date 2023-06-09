@@ -1,0 +1,13 @@
+.list-item {
+  color: #ffffff;
+  font-family: 'Roboto';
+  background-color: #323f4b;
+  margin: 3px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.task-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
